@@ -1,0 +1,14 @@
+#bug_link {
+  font-size: 50%;
+  padding-top: 10px;
+}
+
+.header_properties {
+	background-color: red;
+	height: 50%;
+}
+
+.data {
+  color: #999;
+  padding-left: 6px;
+}

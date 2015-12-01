@@ -1,0 +1,13 @@
+{
+  "name": "Test1",
+  "author": {
+    "name": "Michael Kempster",
+    "email": "m.kempster@base2services.com",
+    "url": "http://www.base2services.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": "ticket_sidebar",
+  "version": "1.0",
+  "frameworkVersion": "1.0"
+}
