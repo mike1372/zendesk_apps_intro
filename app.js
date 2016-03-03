@@ -57,7 +57,6 @@
 
     getInfo: function() {
 	  	var id = this.ticket().requester().id();
-	  	console.log('The requester ID is ' + id);
 	  	this.ajax('userGetRequest', id);
 		},
 
